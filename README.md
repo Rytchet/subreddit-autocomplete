@@ -10,6 +10,8 @@ it difficult to use with workflow-improvement apps like
 This simple app is very easy to extend with other features, and allows you to
 self-host on your AWS account.
 
+![Example of use with ueli](https://github.com/Rytchet/sub-autocomplete/blob/main/assets/example.png?raw=true)
+
 ## Installation
 
 - [Install the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
