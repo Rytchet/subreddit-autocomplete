@@ -1,7 +1,7 @@
 # Subreddit autocomplete
 
-This is a AWS CDK (API Gateway + Lambda) implementation of Reddit's autocomplete
-for subreddits.
+This is an AWS CDK (API Gateway + Lambda) implementation of Reddit's
+autocomplete for subreddits.
 
 The Reddit API requires OAuth and has no open endpoints for this purpose, making
 it difficult to use with workflow-improvement apps like
