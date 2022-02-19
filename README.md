@@ -1,4 +1,4 @@
-# Subreddit autocomplete
+# Subreddit autocomplete 🔎
 
 This is an AWS CDK (API Gateway + Lambda) implementation of Reddit's
 autocomplete for subreddits.
